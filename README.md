@@ -11,7 +11,7 @@ with the reconstructed vowel.
 
 ## Observations 
 
-* At each vowel the masculine pitch is about 100Hz lower than the female one. The following
+* For each vowel, the masculine pitch is about 100Hz lower than the female one. The following
 table represents the measured fundamental frequencies, in Hz.
 
 gender \ vowel  | 'a'   | 'e' | 'i' | 'o' | 'u'     
