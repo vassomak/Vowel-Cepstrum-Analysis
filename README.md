@@ -31,3 +31,6 @@ files, although the sound resembles the desired vowel, it does not remind of hum
 voice as the "timbre" is missing. This is probably due to the fact that
 impulse response is convoluted with δ[n] rather than sinc functions. This results in the sound produced being completely
 stiff.
+
+* Regarding liftering in the Cepstrum domain, it was of decisive importance
+the window length, as even with small changes, the final sound was completely different.
