@@ -19,5 +19,7 @@ gender \ vowel  | 'a'   | 'e' | 'i' | 'o' | 'u'
 Female          | 220   | 230 | 249 | 232 | 274
 Male            | 127   | 133 | 148 | 125 | 151
 
-
-
+* In the Cepstrum sector, more peaks are observed at
+female vowels compared to the male ones. This probably happens because the
+female voice has a more "breathy" quality, which, in the 
+Cepstrum domain, is translated as noise, while the masculine Cepstrum is smoother.
