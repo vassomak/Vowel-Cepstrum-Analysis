@@ -23,3 +23,11 @@ Male            | 127   | 133 | 148 | 125 | 151
 female vowels compared to the male ones. This probably happens because the
 female voice has a more "breathy" quality, which, in the 
 Cepstrum domain, is translated as noise, while the masculine Cepstrum is smoother.
+
+* Listening to the audio files from the reconstructed vowels, we notice that
+the "buzziness" is quite reduced. This happens due to the fact that the impulse
+response calculated is mixed phase. Nevertheless, for the most 
+files, although the sound resembles the desired vowel, it does remind of human
+voice as the "timbre" is missing. This is probably due to the fact that
+impulse response is convoluted with δ[n] rather than sinc functions. This results in the sound produced being completely
+stiff.
